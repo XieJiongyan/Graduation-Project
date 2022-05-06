@@ -1,0 +1,26 @@
+{
+  "latex-workshop.latex.recipes": [
+      {
+          "name": "latexmk-sjtuthesis",
+          "tools": [
+              "latexmk"
+          ]
+      }
+  ],
+  "latex-workshop.latex.tools": [
+      {
+          "name": "latexmk",
+          "command": "latexmk",
+          "args": [
+              "-xelatex",
+              "-synctex=1",
+              "-interaction=nonstopmode",
+              "-file-line-error",
+              "-halt-on-error",
+              "-time",
+              "%DOC%"
+          ]
+      }
+  ],
+  "latex-workshop.latex.autoBuild.run": "onSave"
+}

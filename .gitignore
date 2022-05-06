@@ -1,0 +1,5 @@
+*.loa
+*.out
+*.bbl
+*.blg
+*.fdb_latexmk
