@@ -3,3 +3,6 @@
 *.bbl
 *.blg
 *.fdb_latexmk
+
+*.png
+*.jpg
