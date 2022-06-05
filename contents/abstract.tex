@@ -1,24 +1,25 @@
 % !TEX root = ../main.tex
 
 \begin{abstract}
-  中文摘要应该将学位论文的内容要点简短明了地表达出来，应该包含论文中的基本信息，
-  体现科研工作的核心思想。摘要内容应涉及本项科研工作的目的和意义、研究方法、研究
-  成果、结论及意义。注意突出学位论文中具有创新性的成果和新见解的部分。摘要中不宜
-  使用公式、化学结构式、图表和非公知公用的符号和术语，不标注引用文献编号。硕士学
-  位论文中文摘要字数为 500 字左右，博士学位论文中文摘要字数为 800 字左右。英文摘
-  要内容应与中文摘要内容一致。
+  入水是指航行体从空气进入水面的过程。在航行体入水时，会携带一部分气体进入水中，或者会使水汽化成水蒸气，这便是入水空泡/空化现象。入水问题是当前科研领域的一个关键问题，研究由来已久。当前阶段，空泡入水是入水问题研究的热点方向。空泡入水问题在波浪场环境下的研究相对不够充分，因此本论文研究了波浪场环境下的空泡入水问题。
 
-  摘要页的下方注明本文的关键词（4～6个）。
+  入水空泡这一问题的研究是一个悠久问题，并且一直是流体领域的研究热点和难点。早在 20 世纪初期，入水时受到的冲击就已经有了许多研究，随后至 20 世纪后半页，入水空泡和空化问题逐渐引起了研究的重视。对于入水问题，早期的研究方法包括理论求解，实验验证等，后来逐步开始采用有限元，PIV 或者 CFD 数值模拟的方法。本论文使用的是 CFD 方法对入水空泡问题进行数值模拟。
+
+  航行体进入波浪场时，航行体和波浪场中水和空气的行为都可由物理学和流体力学基础数学模型描述。包括流体的连续性方程，动量方程以及能量守恒方程。之后，又论述了多相流环境下的流体力学基本方程的相关变化。最后又论述了入水空泡模型。这些数学模型是进行数值模拟的基础。
+
+  为了实现数值模拟，本文借助流体力学计算软件 Fluent 进行数值模拟。首先，本文介绍了采用的几何模型和网格划分，其次，给定了各个边的边界条件，并论述了具体的消波方法。为了防止出水区边界造成波浪反射现象，在波浪场中增加一部分消波区，并且在该区域内采用动量源项消波法的方法。为了更好地捕捉界面，采用 VOF 方法进行捕捉。航行体入水过程中，为了让航行体周围的流场情况更加精确，采用重叠网格技术，将包裹航行体的动网格和环境的静态网格可以融合在一起进行流场求算。最后论述了本次实验的具体设置实验设计，根据不同入射角度和入射相位，总计进行了 9 组实验。
+
+  最后，本文对 9 组数值模拟实验进行分析和现象归纳。首先展示了稳定的波浪场结果，其次大致描述了不同入水阶段的密度分布。之后以 $60 ^\circ$ 入水和 $90 ^\circ$ 入水的各一个算例为例，详述了入水过程中的密度场，压力场和速度场。最后分析和论述了各算例下航行体入水过程的特点。
 \end{abstract}
 
 \begin{abstract*}
-  Shanghai Jiao Tong University (SJTU) is a key university in China. SJTU was
-  founded in 1896. It is one of the oldest universities in China. The University
-  has nurtured large numbers of outstanding figures include JIANG Zemin, DING
-  Guangen, QIAN Xuesen, Wu Wenjun, WANG An, etc.
+  Water entry refers to the process in which a vehicle enters the water surface from the air. When the vehicle enters the water, it will carry a part of the gas into the water, or it will vaporize the water into water vapor, which is the phenomenon of water entry cavitation/cavitation. The problem of water entry is a key issue in the current scientific research field, and the research has a long history. At the current stage, cavitation into water is a hot research direction of water entry. The research on the problem of cavitation into water in the wave field environment is relatively insufficient, so this paper studies the problem of cavitation into the water in the wave field environment.
 
-  SJTU has beautiful campuses, Bao Zhaolong Library, Various laboratories. It
-  has been actively involved in international academic exchange programs. It is
-  the center of CERNet in east China region, through computer networks, SJTU has
-  faster and closer connection with the world.
+  The study of water entry cavitation is a long-standing problem, and has always been a hot and difficult research topic in the field of fluids. As early as the early 20th century, there have been many studies on the impact of water entry, and then to the second half of the 20th century, the problems of water entry cavitation and cavitation gradually attracted research attention. For the water entry problem, the early research methods include theoretical solution, experimental verification, etc., and then gradually began to use finite element, PIV or CFD numerical simulation methods. In this paper, the CFD method is used to numerically simulate the water entry cavitation problem.
+
+  When a vehicle enters the wave field, the behavior of water and air in both the vehicle and the wave field can be described by mathematical models based on physics and fluid mechanics. Including fluid continuity equation, momentum equation and energy conservation equation. Afterwards, the related changes of the basic equations of fluid mechanics in the multiphase flow environment are discussed. Finally, the water entry cavitation model is discussed. These mathematical models are the basis for performing numerical simulations.
+
+  In order to realize the numerical simulation, this paper uses the fluid mechanics calculation software Fluent to carry out the numerical simulation. Firstly, this paper introduces the adopted geometric model and mesh division. Secondly, the boundary conditions of each edge are given, and the specific wave elimination method is discussed. In order to prevent the wave reflection phenomenon caused by the boundary of the water outlet, a part of the wave absorbing area is added to the wave field, and the method of the momentum source term wave absorbing method is used in this area. In order to better capture the interface, the VOF method is used to capture. In the process of entering the water, in order to make the flow field around the vehicle more accurate, the overlapping grid technology is used, and the dynamic mesh surrounding the vehicle and the static mesh of the environment can be integrated to calculate the flow field. Finally, the specific experimental design of this experiment is discussed. According to different incident angles and incident phases, a total of 9 groups of experiments are carried out.
+
+  Finally, this paper analyzes and summarizes the phenomena of 9 groups of numerical simulation experiments. First, the stable wave field results are shown, and second, the density distribution at different water entry stages is roughly described. Then, the density field, pressure field and velocity field in the process of water entry are described in detail by taking one example of $60 ^\circ$ entering water and $90 ^\circ$ entering water as examples. Finally, the characteristics of the water entry process of the vehicle in each case are analyzed and discussed.
 \end{abstract*}

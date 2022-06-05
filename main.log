@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2020.2.7)  6 MAY 2022 12:35
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2020.2.7)  2 JUN 2022 03:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2019,67 +2019,30 @@ File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
 
 
 
-])
+]
 File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
 <use sjtu-vi-logo-red.pdf>
  [2
 
 
-] (./main.toc
+])
 File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
 <use sjtu-vi-logo-red.pdf>
- [3
-
-
-])
+ [3] (./main.toc)
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
 File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
 <use sjtu-vi-logo-red.pdf>
- [4] (./main.lof)
-\tf@lof=\write7
-\openout7 = `main.lof'.
-
-File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
-<use sjtu-vi-logo-red.pdf>
- [5
-
-
-] (./main.lot)
-\tf@lot=\write8
-\openout8 = `main.lot'.
-
-File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
-<use sjtu-vi-logo-red.pdf>
- [6
-
-
-] (./main.loa)
-\tf@loa=\write9
-\openout9 = `main.loa'.
-
- (./contents/nomenclature.tex
-File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
-<use sjtu-vi-logo-red.pdf>
- [7
+ [4
 
 
 ]
-File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
-<use sjtu-vi-logo-red.pdf>
- [8
-
-
-])
-File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
-<use sjtu-vi-logo-red.pdf>
- [9]
 \c@pagesLTS.Roman.1.local.count=\count596
 \c@pagesLTS.pnc.arabic=\count597
 \c@pagesLTS.double.arabic=\count598
 \c@pagesLTS.current.local.arabic=\count599
- (./contents/intro.tex
+ (./contents/background.tex
 第一章
 File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
 <use sjtu-vi-logo-red.pdf>
@@ -2087,46 +2050,58 @@ File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
 
 
 ]
-LaTeX Font Info:    Font shape `TU/texgyrecursor(0)/m/n' will be
-(Font)              scaled to size 11.37337pt on input line 82.
-) (./contents/background.tex
+File: figures/backgroud_1.png Graphic file (type bmp)
+<figures/backgroud_1.png>
 File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
 <use sjtu-vi-logo-red.pdf>
  [2]
-第二章
-) (./contents/theory.tex
 File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
 <use sjtu-vi-logo-red.pdf>
- [3
-
-]
-第三章
+ [3]) (./contents/theory.tex
 File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
 <use sjtu-vi-logo-red.pdf>
-[4
-
-]) (./contents/model.tex
+ [4]
 File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
 <use sjtu-vi-logo-red.pdf>
  [5]
-第四章
-File: figures/overlay_grid.png Graphic file (type bmp)
-<figures/overlay_grid.png>
+第二章
 File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
 <use sjtu-vi-logo-red.pdf>
 [6
 
-]
+]) (./contents/model.tex
 File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
 <use sjtu-vi-logo-red.pdf>
  [7]
+第三章
+File: figures/overlay_grid.png Graphic file (type bmp)
+<figures/overlay_grid.png>
+File: figures/fig/mesh/WaterEntry-AOA45.jpg Graphic file (type bmp)
+<figures/fig/mesh/WaterEntry-AOA45.jpg>
+File: figures/fig/mesh/WaterEntry-AOA60.jpg Graphic file (type bmp)
+<figures/fig/mesh/WaterEntry-AOA60.jpg>
+File: figures/fig/mesh/WaterEntry-AOA90.jpg Graphic file (type bmp)
+<figures/fig/mesh/WaterEntry-AOA90.jpg>
 File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
 <use sjtu-vi-logo-red.pdf>
- [8]) (./contents/result.tex
+[8
+
+]
 File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
 <use sjtu-vi-logo-red.pdf>
  [9]
-第五章
+File: figures/vof.png Graphic file (type bmp)
+<figures/vof.png>
+File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
+<use sjtu-vi-logo-red.pdf>
+ [10]) (./contents/result.tex
+File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
+<use sjtu-vi-logo-red.pdf>
+ [11]
+File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
+<use sjtu-vi-logo-red.pdf>
+ [12]
+第四章
 File: figures/fig/wave_density.png Graphic file (type bmp)
 <figures/fig/wave_density.png>
 File: figures/fig/wave_pressure.png Graphic file (type bmp)
@@ -2135,11 +2110,6 @@ File: figures/fig/wave_u.png Graphic file (type bmp)
 <figures/fig/wave_u.png>
 File: figures/fig/wave_v.png Graphic file (type bmp)
 <figures/fig/wave_v.png>
-File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
-<use sjtu-vi-logo-red.pdf>
-[10
-
-]
 File: figures/fig/WaterEntry-AOA45-1-0.jpg Graphic file (type bmp)
 <figures/fig/WaterEntry-AOA45-1-0.jpg>
 File: figures/fig/WaterEntry-AOA45-1-0_5.jpg Graphic file (type bmp)
@@ -2150,158 +2120,411 @@ File: figures/fig/WaterEntry-AOA45-1-0_9.jpg Graphic file (type bmp)
 <figures/fig/WaterEntry-AOA45-1-0_9.jpg>
 File: figures/fig/WaterEntry-AOA45-1-2_000000.jpg Graphic file (type bmp)
 <figures/fig/WaterEntry-AOA45-1-2_000000.jpg>
-) (./contents/math_and_citations.tex
-File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
-<use sjtu-vi-logo-red.pdf>
- [11]
-File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
-<use sjtu-vi-logo-red.pdf>
- [12]
-第六章
-Missing character: There is no µ in font ntx-Regular-tlf-ot1!
-Missing character: There is no µ in font ntx-Regular-tlf-ot1!
-Missing character: There is no µ in font ntx-Regular-tlf-ot1!
-Missing character: There is no µ in font ntx-Regular-tlf-ot1!
-Missing character: There is no µ in font ntx-Regular-tlf-ot1!
-Missing character: There is no Ω in font ntx-Regular-tlf-ot1!
-Missing character: There is no Ω in font ntx-Regular-tlf-ot1!
-Missing character: There is no Ω in font ntx-Regular-tlf-ot1!
-Missing character: There is no Ω in font ntx-Regular-tlf-ot1!
-Missing character: There is no Ω in font ntx-Regular-tlf-ot1!
 File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
 <use sjtu-vi-logo-red.pdf>
 [13
 
 ]
-Package hyperref Info: bookmark level for unknown theorem defaults to 0 on input line 84.
-Package hyperref Info: bookmark level for unknown proof defaults to 0 on input line 112.
 File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
 <use sjtu-vi-logo-red.pdf>
- [14]) (./contents/floats.tex
-File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
-<use sjtu-vi-logo-red.pdf>
- [15]
-第七章
-File: figures/cn_100t.png Graphic file (type bmp)
-<figures/cn_100t.png>
-File: sjtu-vi-badge-blue.pdf Graphic file (type pdf)
-<use sjtu-vi-badge-blue.pdf>
-File: sjtu-vi-badge-blue.pdf Graphic file (type pdf)
-<use sjtu-vi-badge-blue.pdf>
-File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
-<use sjtu-vi-logo-red.pdf>
-[16
+ [14]
 
-]
-File: sjtu-vi-name-blue.pdf Graphic file (type pdf)
-<use sjtu-vi-name-blue.pdf>
-File: sjtu-vi-name-blue.pdf Graphic file (type pdf)
-<use sjtu-vi-name-blue.pdf>
-File: figures/pressure15.jpg Graphic file (type bmp)
-<figures/pressure15.jpg>
-File: figures//pressure25.jpg Graphic file (type bmp)
-<figures//pressure25.jpg>
-File: sjtu-vi-badge-blue.pdf Graphic file (type pdf)
-<use sjtu-vi-badge-blue.pdf>
-File: sjtu-vi-name-blue.pdf Graphic file (type pdf)
-<use sjtu-vi-name-blue.pdf>
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 74.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 74.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 74.
+
+File: figures/fig/aoa60_60st/3d.jpg Graphic file (type bmp)
+<figures/fig/aoa60_60st/3d.jpg>
+File: figures/fig/aoa60_60st/4d.jpg Graphic file (type bmp)
+<figures/fig/aoa60_60st/4d.jpg>
+File: figures/fig/aoa60_60st/5d.jpg Graphic file (type bmp)
+<figures/fig/aoa60_60st/5d.jpg>
+File: figures/fig/aoa60_60st/6d.jpg Graphic file (type bmp)
+<figures/fig/aoa60_60st/6d.jpg>
+File: figures/fig/aoa60_60st/7d.jpg Graphic file (type bmp)
+<figures/fig/aoa60_60st/7d.jpg>
+File: figures/fig/aoa60_60st/8d.jpg Graphic file (type bmp)
+<figures/fig/aoa60_60st/8d.jpg>
+File: figures/fig/aoa60_60st/12d.jpg Graphic file (type bmp)
+<figures/fig/aoa60_60st/12d.jpg>
+File: figures/fig/aoa60_60st/16d.jpg Graphic file (type bmp)
+<figures/fig/aoa60_60st/16d.jpg>
+File: figures/fig/aoa60_60st/20d.jpg Graphic file (type bmp)
+<figures/fig/aoa60_60st/20d.jpg>
+File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
+<use sjtu-vi-logo-red.pdf>
+[15]
+File: figures/fig/aoa60_60st/3p.jpg Graphic file (type bmp)
+<figures/fig/aoa60_60st/3p.jpg>
+File: figures/fig/aoa60_60st/4p.jpg Graphic file (type bmp)
+<figures/fig/aoa60_60st/4p.jpg>
+File: figures/fig/aoa60_60st/5p.jpg Graphic file (type bmp)
+<figures/fig/aoa60_60st/5p.jpg>
+File: figures/fig/aoa60_60st/6p.jpg Graphic file (type bmp)
+<figures/fig/aoa60_60st/6p.jpg>
+File: figures/fig/aoa60_60st/7p.jpg Graphic file (type bmp)
+<figures/fig/aoa60_60st/7p.jpg>
+File: figures/fig/aoa60_60st/8p.jpg Graphic file (type bmp)
+<figures/fig/aoa60_60st/8p.jpg>
+File: figures/fig/aoa60_60st/12p.jpg Graphic file (type bmp)
+<figures/fig/aoa60_60st/12p.jpg>
+File: figures/fig/aoa60_60st/16p.jpg Graphic file (type bmp)
+<figures/fig/aoa60_60st/16p.jpg>
+File: figures/fig/aoa60_60st/20p.jpg Graphic file (type bmp)
+<figures/fig/aoa60_60st/20p.jpg>
+File: figures/fig/aoa60_60st/3u.jpg Graphic file (type bmp)
+<figures/fig/aoa60_60st/3u.jpg>
+File: figures/fig/aoa60_60st/4u.jpg Graphic file (type bmp)
+<figures/fig/aoa60_60st/4u.jpg>
+File: figures/fig/aoa60_60st/5u.jpg Graphic file (type bmp)
+<figures/fig/aoa60_60st/5u.jpg>
+File: figures/fig/aoa60_60st/6u.jpg Graphic file (type bmp)
+<figures/fig/aoa60_60st/6u.jpg>
+File: figures/fig/aoa60_60st/7u.jpg Graphic file (type bmp)
+<figures/fig/aoa60_60st/7u.jpg>
+File: figures/fig/aoa60_60st/8u.jpg Graphic file (type bmp)
+<figures/fig/aoa60_60st/8u.jpg>
+File: figures/fig/aoa60_60st/12u.jpg Graphic file (type bmp)
+<figures/fig/aoa60_60st/12u.jpg>
+File: figures/fig/aoa60_60st/16u.jpg Graphic file (type bmp)
+<figures/fig/aoa60_60st/16u.jpg>
+File: figures/fig/aoa60_60st/20u.jpg Graphic file (type bmp)
+<figures/fig/aoa60_60st/20u.jpg>
+File: figures/fig/aoa60_60st/3v.jpg Graphic file (type bmp)
+<figures/fig/aoa60_60st/3v.jpg>
+File: figures/fig/aoa60_60st/4v.jpg Graphic file (type bmp)
+<figures/fig/aoa60_60st/4v.jpg>
+File: figures/fig/aoa60_60st/5v.jpg Graphic file (type bmp)
+<figures/fig/aoa60_60st/5v.jpg>
+File: figures/fig/aoa60_60st/6v.jpg Graphic file (type bmp)
+<figures/fig/aoa60_60st/6v.jpg>
+File: figures/fig/aoa60_60st/7v.jpg Graphic file (type bmp)
+<figures/fig/aoa60_60st/7v.jpg>
+File: figures/fig/aoa60_60st/8v.jpg Graphic file (type bmp)
+<figures/fig/aoa60_60st/8v.jpg>
+File: figures/fig/aoa60_60st/12v.jpg Graphic file (type bmp)
+<figures/fig/aoa60_60st/12v.jpg>
+File: figures/fig/aoa60_60st/16v.jpg Graphic file (type bmp)
+<figures/fig/aoa60_60st/16v.jpg>
+File: figures/fig/aoa60_60st/20v.jpg Graphic file (type bmp)
+<figures/fig/aoa60_60st/20v.jpg>
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 344.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 344.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 344.
+
+File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
+<use sjtu-vi-logo-red.pdf>
+[16]
 File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
 <use sjtu-vi-logo-red.pdf>
  [17]
-Underfull \hbox (badness 3579) in paragraph at lines 138--142
-[]\TU/SimSun(0)/m/n/10.53937 表 格 的 编 排 建 议 采 用 国 际 通 行 的 三 线 表[][][][]。|  三 线 表 可 以 使 用 \TU/texgyreheros(0)/m/n/10.53937 booktabs \TU/SimSun(0)/m/n/10.53937 提 供 的
+File: figures/fig/aoa90_60st/2d.jpg Graphic file (type bmp)
+<figures/fig/aoa90_60st/2d.jpg>
+File: figures/fig/aoa90_60st/3d.jpg Graphic file (type bmp)
+<figures/fig/aoa90_60st/3d.jpg>
+File: figures/fig/aoa90_60st/4d.jpg Graphic file (type bmp)
+<figures/fig/aoa90_60st/4d.jpg>
+File: figures/fig/aoa90_60st/5d.jpg Graphic file (type bmp)
+<figures/fig/aoa90_60st/5d.jpg>
+File: figures/fig/aoa90_60st/6d.jpg Graphic file (type bmp)
+<figures/fig/aoa90_60st/6d.jpg>
+File: figures/fig/aoa90_60st/7d.jpg Graphic file (type bmp)
+<figures/fig/aoa90_60st/7d.jpg>
+File: figures/fig/aoa90_60st/12d.jpg Graphic file (type bmp)
+<figures/fig/aoa90_60st/12d.jpg>
+File: figures/fig/aoa90_60st/16d.jpg Graphic file (type bmp)
+<figures/fig/aoa90_60st/16d.jpg>
+File: figures/fig/aoa90_60st/20d.jpg Graphic file (type bmp)
+<figures/fig/aoa90_60st/20d.jpg>
+File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
+<use sjtu-vi-logo-red.pdf>
+ [18]
+File: figures/fig/aoa90_60st/2p.jpg Graphic file (type bmp)
+<figures/fig/aoa90_60st/2p.jpg>
+File: figures/fig/aoa90_60st/3p.jpg Graphic file (type bmp)
+<figures/fig/aoa90_60st/3p.jpg>
+File: figures/fig/aoa90_60st/4p.jpg Graphic file (type bmp)
+<figures/fig/aoa90_60st/4p.jpg>
+File: figures/fig/aoa90_60st/5p.jpg Graphic file (type bmp)
+<figures/fig/aoa90_60st/5p.jpg>
+File: figures/fig/aoa90_60st/6p.jpg Graphic file (type bmp)
+<figures/fig/aoa90_60st/6p.jpg>
+File: figures/fig/aoa90_60st/7p.jpg Graphic file (type bmp)
+<figures/fig/aoa90_60st/7p.jpg>
+File: figures/fig/aoa90_60st/12p.jpg Graphic file (type bmp)
+<figures/fig/aoa90_60st/12p.jpg>
+File: figures/fig/aoa90_60st/16p.jpg Graphic file (type bmp)
+<figures/fig/aoa90_60st/16p.jpg>
+File: figures/fig/aoa90_60st/20p.jpg Graphic file (type bmp)
+<figures/fig/aoa90_60st/20p.jpg>
+File: figures/fig/aoa90_60st/2u.jpg Graphic file (type bmp)
+<figures/fig/aoa90_60st/2u.jpg>
+File: figures/fig/aoa90_60st/3u.jpg Graphic file (type bmp)
+<figures/fig/aoa90_60st/3u.jpg>
+File: figures/fig/aoa90_60st/4u.jpg Graphic file (type bmp)
+<figures/fig/aoa90_60st/4u.jpg>
+File: figures/fig/aoa90_60st/5u.jpg Graphic file (type bmp)
+<figures/fig/aoa90_60st/5u.jpg>
+File: figures/fig/aoa90_60st/6u.jpg Graphic file (type bmp)
+<figures/fig/aoa90_60st/6u.jpg>
+File: figures/fig/aoa90_60st/7u.jpg Graphic file (type bmp)
+<figures/fig/aoa90_60st/7u.jpg>
+File: figures/fig/aoa90_60st/12u.jpg Graphic file (type bmp)
+<figures/fig/aoa90_60st/12u.jpg>
+File: figures/fig/aoa90_60st/16u.jpg Graphic file (type bmp)
+<figures/fig/aoa90_60st/16u.jpg>
+File: figures/fig/aoa90_60st/20u.jpg Graphic file (type bmp)
+<figures/fig/aoa90_60st/20u.jpg>
+File: figures/fig/aoa90_60st/2v.jpg Graphic file (type bmp)
+<figures/fig/aoa90_60st/2v.jpg>
+File: figures/fig/aoa90_60st/3v.jpg Graphic file (type bmp)
+<figures/fig/aoa90_60st/3v.jpg>
+File: figures/fig/aoa90_60st/4v.jpg Graphic file (type bmp)
+<figures/fig/aoa90_60st/4v.jpg>
+File: figures/fig/aoa90_60st/5v.jpg Graphic file (type bmp)
+<figures/fig/aoa90_60st/5v.jpg>
+File: figures/fig/aoa90_60st/6v.jpg Graphic file (type bmp)
+<figures/fig/aoa90_60st/6v.jpg>
+File: figures/fig/aoa90_60st/7v.jpg Graphic file (type bmp)
+<figures/fig/aoa90_60st/7v.jpg>
+File: figures/fig/aoa90_60st/12v.jpg Graphic file (type bmp)
+<figures/fig/aoa90_60st/12v.jpg>
+File: figures/fig/aoa90_60st/16v.jpg Graphic file (type bmp)
+<figures/fig/aoa90_60st/16v.jpg>
+File: figures/fig/aoa90_60st/20v.jpg Graphic file (type bmp)
+<figures/fig/aoa90_60st/20v.jpg>
+ (./contents/detail_45_3.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
+<use sjtu-vi-logo-red.pdf>
+[19]
+File: figures/fig/aoa45_60st/3d.jpg Graphic file (type bmp)
+<figures/fig/aoa45_60st/3d.jpg>
+File: figures/fig/aoa45_60st/4d.jpg Graphic file (type bmp)
+<figures/fig/aoa45_60st/4d.jpg>
+File: figures/fig/aoa45_60st/5d.jpg Graphic file (type bmp)
+<figures/fig/aoa45_60st/5d.jpg>
+File: figures/fig/aoa45_60st/6d.jpg Graphic file (type bmp)
+<figures/fig/aoa45_60st/6d.jpg>
+File: figures/fig/aoa45_60st/7d.jpg Graphic file (type bmp)
+<figures/fig/aoa45_60st/7d.jpg>
+File: figures/fig/aoa45_60st/8d.jpg Graphic file (type bmp)
+<figures/fig/aoa45_60st/8d.jpg>
+File: figures/fig/aoa45_60st/12d.jpg Graphic file (type bmp)
+<figures/fig/aoa45_60st/12d.jpg>
+File: figures/fig/aoa45_60st/16d.jpg Graphic file (type bmp)
+<figures/fig/aoa45_60st/16d.jpg>
+File: figures/fig/aoa45_60st/20d.jpg Graphic file (type bmp)
+<figures/fig/aoa45_60st/20d.jpg>
+File: figures/fig/aoa45_60st/3p.jpg Graphic file (type bmp)
+<figures/fig/aoa45_60st/3p.jpg>
+File: figures/fig/aoa45_60st/4p.jpg Graphic file (type bmp)
+<figures/fig/aoa45_60st/4p.jpg>
+File: figures/fig/aoa45_60st/5p.jpg Graphic file (type bmp)
+<figures/fig/aoa45_60st/5p.jpg>
+File: figures/fig/aoa45_60st/6p.jpg Graphic file (type bmp)
+<figures/fig/aoa45_60st/6p.jpg>
+File: figures/fig/aoa45_60st/7p.jpg Graphic file (type bmp)
+<figures/fig/aoa45_60st/7p.jpg>
+File: figures/fig/aoa45_60st/8p.jpg Graphic file (type bmp)
+<figures/fig/aoa45_60st/8p.jpg>
+File: figures/fig/aoa45_60st/12p.jpg Graphic file (type bmp)
+<figures/fig/aoa45_60st/12p.jpg>
+File: figures/fig/aoa45_60st/16p.jpg Graphic file (type bmp)
+<figures/fig/aoa45_60st/16p.jpg>
+File: figures/fig/aoa45_60st/20p.jpg Graphic file (type bmp)
+<figures/fig/aoa45_60st/20p.jpg>
+File: figures/fig/aoa45_60st/3u.jpg Graphic file (type bmp)
+<figures/fig/aoa45_60st/3u.jpg>
+File: figures/fig/aoa45_60st/4u.jpg Graphic file (type bmp)
+<figures/fig/aoa45_60st/4u.jpg>
+File: figures/fig/aoa45_60st/5u.jpg Graphic file (type bmp)
+<figures/fig/aoa45_60st/5u.jpg>
+File: figures/fig/aoa45_60st/6u.jpg Graphic file (type bmp)
+<figures/fig/aoa45_60st/6u.jpg>
+File: figures/fig/aoa45_60st/7u.jpg Graphic file (type bmp)
+<figures/fig/aoa45_60st/7u.jpg>
+File: figures/fig/aoa45_60st/8u.jpg Graphic file (type bmp)
+<figures/fig/aoa45_60st/8u.jpg>
+File: figures/fig/aoa45_60st/12u.jpg Graphic file (type bmp)
+<figures/fig/aoa45_60st/12u.jpg>
+File: figures/fig/aoa45_60st/16u.jpg Graphic file (type bmp)
+<figures/fig/aoa45_60st/16u.jpg>
+File: figures/fig/aoa45_60st/20u.jpg Graphic file (type bmp)
+<figures/fig/aoa45_60st/20u.jpg>
+File: figures/fig/aoa45_60st/3v.jpg Graphic file (type bmp)
+<figures/fig/aoa45_60st/3v.jpg>
+File: figures/fig/aoa45_60st/4v.jpg Graphic file (type bmp)
+<figures/fig/aoa45_60st/4v.jpg>
+File: figures/fig/aoa45_60st/5v.jpg Graphic file (type bmp)
+<figures/fig/aoa45_60st/5v.jpg>
+File: figures/fig/aoa45_60st/6v.jpg Graphic file (type bmp)
+<figures/fig/aoa45_60st/6v.jpg>
+File: figures/fig/aoa45_60st/7v.jpg Graphic file (type bmp)
+<figures/fig/aoa45_60st/7v.jpg>
+File: figures/fig/aoa45_60st/8v.jpg Graphic file (type bmp)
+<figures/fig/aoa45_60st/8v.jpg>
+File: figures/fig/aoa45_60st/12v.jpg Graphic file (type bmp)
+<figures/fig/aoa45_60st/12v.jpg>
+File: figures/fig/aoa45_60st/16v.jpg Graphic file (type bmp)
+<figures/fig/aoa45_60st/16v.jpg>
+File: figures/fig/aoa45_60st/20v.jpg Graphic file (type bmp)
+<figures/fig/aoa45_60st/20v.jpg>
+)
+File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
+<use sjtu-vi-logo-red.pdf>
+ [20]
+File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
+<use sjtu-vi-logo-red.pdf>
+ [21]
+File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
+<use sjtu-vi-logo-red.pdf>
+ [22]
+File: figures/fig/aoa45_56st/5d.jpg Graphic file (type bmp)
+<figures/fig/aoa45_56st/5d.jpg>
+File: figures/fig/aoa45_58st/6d.jpg Graphic file (type bmp)
+<figures/fig/aoa45_58st/6d.jpg>
+File: figures/fig/aoa45_60st/3d.jpg Graphic file (type bmp)
+<figures/fig/aoa45_60st/3d.jpg>
+File: figures/fig/aoa45_56st/6d.jpg Graphic file (type bmp)
+<figures/fig/aoa45_56st/6d.jpg>
+File: figures/fig/aoa45_58st/7d.jpg Graphic file (type bmp)
+<figures/fig/aoa45_58st/7d.jpg>
+File: figures/fig/aoa45_60st/4d.jpg Graphic file (type bmp)
+<figures/fig/aoa45_60st/4d.jpg>
+File: figures/fig/aoa45_56st/7d.jpg Graphic file (type bmp)
+<figures/fig/aoa45_56st/7d.jpg>
+File: figures/fig/aoa45_58st/8d.jpg Graphic file (type bmp)
+<figures/fig/aoa45_58st/8d.jpg>
+File: figures/fig/aoa45_60st/5d.jpg Graphic file (type bmp)
+<figures/fig/aoa45_60st/5d.jpg>
+File: figures/fig/aoa45_56st/8d.jpg Graphic file (type bmp)
+<figures/fig/aoa45_56st/8d.jpg>
+File: figures/fig/aoa45_58st/9d.jpg Graphic file (type bmp)
+<figures/fig/aoa45_58st/9d.jpg>
+File: figures/fig/aoa45_60st/6d.jpg Graphic file (type bmp)
+<figures/fig/aoa45_60st/6d.jpg>
+File: figures/fig/aoa45_56st/9d.jpg Graphic file (type bmp)
+<figures/fig/aoa45_56st/9d.jpg>
+File: figures/fig/aoa45_58st/10d.jpg Graphic file (type bmp)
+<figures/fig/aoa45_58st/10d.jpg>
+File: figures/fig/aoa45_60st/7d.jpg Graphic file (type bmp)
+<figures/fig/aoa45_60st/7d.jpg>
+File: figures/fig/aoa45_56st/10d.jpg Graphic file (type bmp)
+<figures/fig/aoa45_56st/10d.jpg>
+File: figures/fig/aoa45_58st/11d.jpg Graphic file (type bmp)
+<figures/fig/aoa45_58st/11d.jpg>
+File: figures/fig/aoa45_60st/8d.jpg Graphic file (type bmp)
+<figures/fig/aoa45_60st/8d.jpg>
+File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
+<use sjtu-vi-logo-red.pdf>
+ [23]
+File: figures/nine/Displacement.png Graphic file (type bmp)
+<figures/nine/Displacement.png>
+File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
+<use sjtu-vi-logo-red.pdf>
+ [24]
+File: figures/nine/Velocity.png Graphic file (type bmp)
+<figures/nine/Velocity.png>
+File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
+<use sjtu-vi-logo-red.pdf>
+ [25]
+File: figures/nine/AttitudeAngle.png Graphic file (type bmp)
+<figures/nine/AttitudeAngle.png>
+File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
+<use sjtu-vi-logo-red.pdf>
+ [26]
+File: figures/nine/Force.png Graphic file (type bmp)
+<figures/nine/Force.png>
+File: figures/nine/ForceMoment.png Graphic file (type bmp)
+<figures/nine/ForceMoment.png>
+File: figures/nine/MaximumPressure_PointsMotion.png Graphic file (type bmp)
+<figures/nine/MaximumPressure_PointsMotion.png>
+) (./contents/summary.tex
+File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
+<use sjtu-vi-logo-red.pdf>
+ [27]
+File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
+<use sjtu-vi-logo-red.pdf>
+ [28])
+File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
+<use sjtu-vi-logo-red.pdf>
+ [29
+
+
+]
+File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
+<use sjtu-vi-logo-red.pdf>
+ [30
+
+]
+LaTeX Font Info:    Font shape `TU/texgyrecursor(0)/m/n' will be
+(Font)              scaled to size 11.37337pt on input line 63.
+File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
+<use sjtu-vi-logo-red.pdf>
+ [31]
+File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
+<use sjtu-vi-logo-red.pdf>
+ [32]
+Underfull \hbox (badness 2005) in paragraph at lines 63--63
+[]\TU/texgyretermes(0)/m/n/10.53937 TECHET A, TRUSCOTT T. Water entry of spinning hydrophobic and hydrophilic
  []
 
 File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
 <use sjtu-vi-logo-red.pdf>
-[18]
-File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
-<use sjtu-vi-logo-red.pdf>
- [19] (c:/texlive/2019/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2019/02/27 1.8b listings language file
-) (c:/texlive/2019/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
-)
-LaTeX Font Info:    Font shape `TU/texgyrecursor(0)/m/n' will be
-(Font)              scaled to size 8.12383pt on input line 298.
-LaTeX Font Info:    Font shape `TU/texgyrecursor(0)/bx/n' will be
-(Font)              scaled to size 7.7521pt on input line 299.
-File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
-<use sjtu-vi-logo-red.pdf>
- [20]
-LaTeX Font Info:    Font shape `TU/texgyrecursor(0)/m/sl' in size <7.52812> not available
-(Font)              Font shape `TU/texgyrecursor(0)/m/it' tried instead on input line 312.
-LaTeX Font Info:    Font shape `TU/texgyrecursor(0)/m/it' will be
-(Font)              scaled to size 8.12383pt on input line 312.
-) (./contents/summary.tex
-File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
-<use sjtu-vi-logo-red.pdf>
- [21])
-File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
-<use sjtu-vi-logo-red.pdf>
- [22
-
-
-]
+[33]
 
 Package biblatex Warning: No driver for entry type 'artical'.
 (biblatex)                Using fallback driver on input line 63.
 
-
-Underfull \hbox (badness 1509) in paragraph at lines 63--63
-[]\TU/SimSun(0)/m/n/10.53937 周 勤 俊\TU/texgyretermes(0)/m/n/10.53937 , \TU/SimSun(0)/m/n/10.53937 王 本 龙\TU/texgyretermes(0)/m/n/10.53937 , \TU/SimSun(0)/m/n/10.53937 兰 雅 梅\TU/texgyretermes(0)/m/n/10.53937 , \TU/SimSun(0)/m/n/10.53937 等\TU/texgyretermes(0)/m/n/10.53937 . \TU/SimSun(0)/m/n/10.53937 海 堤 越 浪 的 数 值 模 拟\TU/texgyretermes(0)/m/n/10.53937 [J\TU/texgyrecursor(0)/m/n/10.53937 /\TU/texgyretermes(0)/m/n/10.53937 OL]. \TU/SimSun(0)/m/n/10.53937 力 学 季 刊\TU/texgyretermes(0)/m/n/10.53937 , 2005: 629-
- []
-
 File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
 <use sjtu-vi-logo-red.pdf>
-[23
-
-] (./contents/app_maxwell_equations.tex
+[34]
 File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
 <use sjtu-vi-logo-red.pdf>
- [24]
-附录 A
-) (./contents/app_flow_chart.tex
-File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
-<use sjtu-vi-logo-red.pdf>
- [25
-
-]
-附录 B
-(./figures/flow_chart.tex))
-File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
-<use sjtu-vi-logo-red.pdf>
- [26
-
-] (./contents/acknowledgements.tex) (./contents/achievements.tex
-File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
-<use sjtu-vi-logo-red.pdf>
- [27
-
-
-
-]) (./contents/resume.tex
-File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
-<use sjtu-vi-logo-red.pdf>
- [28
-
-
-]) (./contents/digest.tex) 
+ [35] (./contents/acknowledgements.tex) (./contents/digest.tex) 
 AED: pageslts setting LastPage 
 File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
 <use sjtu-vi-logo-red.pdf>
-[29
+[36
+
 
 
 ]
-\tf@thm=\write10
-\openout10 = `main.thm'.
+\tf@thm=\write7
+\openout7 = `main.thm'.
 
 \c@pagesLTS.arabic.1.local.count=\count600
 \c@pagesLTS.pnc.roman=\count601
 \c@pagesLTS.double.roman=\count602
 \c@pagesLTS.current.local.roman=\count603
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 95.
 File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
 <use sjtu-vi-logo-red.pdf>
  [1
@@ -2310,6 +2533,13 @@ File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
 
 
 ]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 95.
+File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
+<use sjtu-vi-logo-red.pdf>
+ [2]
+File: sjtu-vi-logo-red.pdf Graphic file (type pdf)
+<use sjtu-vi-logo-red.pdf>
+ [3]
 Package atveryend Info: Executing hook `AfterLastShipout' on input line 95.
 \c@pagesLTS.roman.1.local.count=\count604
  
@@ -2325,18 +2555,18 @@ Package pageslts Info: Total number of pages is odd.
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 95.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 95.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 462F55B20C152177A8FB5686409BFB31.
+(rerunfilecheck)             Checksum: AD941C04305518B30A90DCBE7D0B8B3F.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 56748 strings out of 492922
- 1173640 string characters out of 6136752
- 1633570 words of memory out of 5000000
- 59844 multiletter control sequences out of 15000+600000
- 698545 words of font info for 360 fonts, out of 8000000 for 9000
+ 56445 strings out of 492922
+ 1156122 string characters out of 6136752
+ 1650442 words of memory out of 5000000
+ 59532 multiletter control sequences out of 15000+600000
+ 653442 words of font info for 270 fonts, out of 8000000 for 9000
  1349 hyphenation exceptions out of 8191
- 71i,17n,122p,864b,7007s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,16n,122p,2362b,7007s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.xdv (41 pages, 599604 bytes).
+Output written on main.xdv (45 pages, 825312 bytes).
